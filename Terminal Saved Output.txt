@@ -1,0 +1,29 @@
+Last login: Tue Feb  4 01:16:11 on ttys000
+palass-mac:~ palass$ cd documents
+palass-mac:documents palass$ cd git
+palass-mac:git palass$ cd pre-interview-test
+palass-mac:pre-interview-test palass$ ruby imdb_request.rb batman
+Title: Son of Batman
+Year: N/A
+palass-mac:pre-interview-test palass$ ruby imdb_request.rb avengers
+Title: The Avengers: Age of Ultron
+Year: 2015
+palass-mac:pre-interview-test palass$ ruby imdb_request.rb the+wolf+of+wall+street
+Title: The Wolf of Wall Street
+Year: 2013
+palass-mac:pre-interview-test palass$ ruby imdb_request.rb star+wars
+Title: Star Wars
+Year: 2014
+palass-mac:pre-interview-test palass$ 
+
+
+
+
+
+
+
+
+
+
+
+
